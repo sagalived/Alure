@@ -1,0 +1,6 @@
+{
+  "name": "ERP Custos e Obras",
+  "description": "Sistema ERP profissional para orçamentos de climatização, dutos, elétrica, hidráulica e consolidação comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
